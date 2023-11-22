@@ -16,6 +16,7 @@
 - ⚡ Fun fact **Persona is the best series for me**
 
 <h3> Programming books that I read: </h3>
+
 - <b>C++ Primer Plus</b> by Stephen Prata
 
 - <b>C++ Primer</b> by Stanley B. Lippman, Barbara E. Moo, Josée Lajoie
@@ -29,6 +30,14 @@
 - <b>Effective STL</b> by Scott Meyers
   
 - <b>More Effective C++</b> by Scott Meyers
+
+
+<h3> Books that I'm reading, working with: </h3>
+
+- <b>Learn OpenGL</b> by Joey de Vries
+
+- <b>Exceptional C++</b> by Herb Sutter
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
