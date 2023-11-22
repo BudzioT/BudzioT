@@ -16,13 +16,19 @@
 - ⚡ Fun fact **Persona is the best series for me**
 
 <h3> Programming books that I read: </h3>
-- **C++ Primer Plus** by Stephen Prata
-- **C++ Primer** by Stanley B. Lippman, Barbara E. Moo, Josée Lajoie
-- **Programming: Principles and Practice Using C++** by Stroustrup, Bjarne
-- **Effective C++** by Scott Meyers
-- **Effective Modern C++** by Scott Meyers
-- **Effective STL** by Scott Meyers
-- **More Effective C++** by Scott Meyers
+- <b>C++ Primer Plus</b> by Stephen Prata
+
+- <b>C++ Primer</b> by Stanley B. Lippman, Barbara E. Moo, Josée Lajoie
+  
+- <b>Programming: Principles and Practice Using C++</b> by Stroustrup, Bjarne
+
+- <b>Effective C++</b> by Scott Meyers
+  
+- <b>Effective Modern C++</b> by Scott Meyers
+  
+- <b>Effective STL</b> by Scott Meyers
+  
+- <b>More Effective C++</b> by Scott Meyers
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
