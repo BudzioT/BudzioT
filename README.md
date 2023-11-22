@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **C++, OpenGL, ImGui, Linux**
 
-- 👨‍💻 All of my projects are available at [no place yet](no place yet)
+- 👨‍💻 All of my projects are available at my github
 
 - 💬 Ask me about **collaboration, ideas**
 
