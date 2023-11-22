@@ -15,6 +15,15 @@
 
 - ⚡ Fun fact **Persona is the best series for me**
 
+<h3> Programming books that I read: </h3>
+- **C++ Primer Plus** by Stephen Prata
+- **C++ Primer** by Stanley B. Lippman, Barbara E. Moo, Josée Lajoie
+- **Programming: Principles and Practice Using C++** by Stroustrup, Bjarne
+- **Effective C++** by Scott Meyers
+- **Effective Modern C++** by Scott Meyers
+- **Effective STL** by Scott Meyers
+- **More Effective C++** by Scott Meyers
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/budzio5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="budzio5" height="30" width="40" /></a>
