@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Bartosz Budnik, also known as Budzio Tudzio</h1>
 <h3 align="center">I'm a C++ learner. I focus on graphic, algorithms and application programming. I also learn Linux.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=budziot" alt="budziot" /></a> </p>
+<h3 align="center"> Basic informations </h2>
 
 - 🔭 I’m currently working on **learning**
 
