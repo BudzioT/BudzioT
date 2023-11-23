@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **learning**
 
-- 🌱 I’m currently learning **C++, OpenGL, ImGui, Linux**
+- 🌱 I’m currently learning **C++, OpenGL, QT, Linux**
 
 - 👨‍💻 All of my projects are available at my github
 
