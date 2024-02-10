@@ -3,9 +3,9 @@
 
 <h3> Basic informations </h2>
 
-- 🔭 I’m currently working on **learning**
+- 🔭 I’m currently working on **Snake game in SDL2**
 
-- 🌱 I’m currently learning **C++, OpenGL, QT, Linux**
+- 🌱 I’m currently learning **C++, OpenGL, SDL2, QT, Linux**
 
 - 👨‍💻 All of my projects are available at my github
 
@@ -34,9 +34,7 @@
 
 <h3> Books that I'm reading, working with: </h3>
 
-- <b>Learn OpenGL</b> by Joey de Vries
-
-- <b>Exceptional C++</b> by Herb Sutter
+- Currently none
 
 
 <h3 align="left">Connect with me:</h3>
