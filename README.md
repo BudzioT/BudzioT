@@ -3,7 +3,7 @@
 
 <h3> Basic informations </h2>
 
-- 🔭 I’m currently working on **Snake game in SDL2**
+- 🔭 I’m currently working on **my own Portfolio**
 
 - 🌱 I’m currently learning **C++, OpenGL, SDL2, QT, Linux**
 
