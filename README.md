@@ -3,9 +3,9 @@
 
 <h3> Basic informations </h2>
 
-- 🔭 I’m currently working on **my own Portfolio**
+- 🔭 I’m currently working on **learning QML**
 
-- 🌱 I’m currently learning **C++, OpenGL, SDL2, QT, Linux**
+- 🌱 I’m currently learning **C++, OpenGL, SDL2, QT, QML, Linux**
 
 - 👨‍💻 All of my projects are available at my github
 
