@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **learning QML**
 
-- 🌱 I’m currently learning **C++, OpenGL, SDL2, QT, QML, Linux**
+- 🌱 I’m currently learning, I use: **C++, OpenGL, SDL2, QT, QML, Python, Linux**
 
 - 👨‍💻 All of my projects are available at my github
 
