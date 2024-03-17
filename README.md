@@ -34,7 +34,7 @@
 
 <h3> Books that I'm reading, working with: </h3>
 
-- Currently none
+- <b>QT6 QML</b> by The QT Company
 
 
 <h3 align="left">Connect with me:</h3>
