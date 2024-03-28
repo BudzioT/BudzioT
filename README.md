@@ -3,7 +3,7 @@
 
 <h3> Basic informations </h2>
 
-- 🔭 I’m currently working on **learning QML**
+- 🔭 I’m currently working on **learning QML, Python modules**
 
 - 🌱 I’m currently learning, I use: **C++, OpenGL, SDL2, QT, QML, Python, Linux**
 
