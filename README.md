@@ -31,10 +31,12 @@
   
 - <b>More Effective C++</b> by Scott Meyers
 
+- <b>QT6 QML</b> by The QT Company
+
 
 <h3> Books that I'm reading, working with: </h3>
 
-- <b>QT6 QML</b> by The QT Company
+- Currently none
 
 
 <h3 align="left">Connect with me:</h3>
