@@ -3,7 +3,7 @@
 
 <h3> Basic informations </h2>
 
-- 🔭 I’m currently working on **Emulating Intel 8080, learning Python modules**
+- 🔭 I’m currently working on **Emulating Intel 8080, learning more deeply about Python**
 
 - 🌱 I’m currently learning, I use: **C++, OpenGL, SDL2, QT, QML, Python, Linux**
 
@@ -36,7 +36,7 @@
 
 <h3> Books that I'm reading, working with: </h3>
 
-- Currently none
+- <b>The Pragmatic Programmer</b> by David Thomas, Andrew Hunt
 
 
 <h3 align="left">Connect with me:</h3>
