@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Bartosz Budnik, also known as Budzio Tudzio</h1>
+<h1 align="center">Hi there 👋, I'm Bartosz Budnik</h1>
 <h3 align="center">I'm a C++ learner. I focus on graphic, algorithms and application programming. I also learn Linux.</h3>
 
 <h3> Basic informations </h2>
