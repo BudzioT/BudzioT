@@ -13,8 +13,6 @@
 
 - 📫 How to reach me **Budzio.zsm1@gmail.com**
 
-- ⚡ Fun fact **Persona is the best series for me**
-
 <h3> Programming books that I read: </h3>
 
 - <b>C++ Primer Plus</b> by Stephen Prata
