@@ -3,7 +3,7 @@
 
 <h3> Basic informations </h2>
 
-- 🔭 I’m currently working on **Emulating Intel 8080, Chip8 and learning more deeply about Python**
+- 🔭 I’m currently working on **Emulating Intel 8080, PyInvaders**
 
 - 🌱 I’m currently learning, I use: **C++, OpenGL, SDL2, QT, QML, Python, Linux**
 
