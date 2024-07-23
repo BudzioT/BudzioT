@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Game development**
 
-- 🌱 I’m currently learning, I use: **C++, OpenGL, SDL2, QT, QML, Python, Linux**
+- 🌱 I’m currently learning, I use: **C++, OpenGL, SDL2, QT, QML, Python, C#, GDScript, Linux**
 
 - 👨‍💻 All of my projects are available at my github
 
