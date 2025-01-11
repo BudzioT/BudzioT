@@ -1,19 +1,17 @@
-<h1 align="center">Hi there 👋, I'm Bartosz Budnik</h1>
-<h3 align="center">I'm just doing a little of everything. C++/Rust is amazing! Mainly focusing on game dev</h3>
+<h1 align="center">Hii, I'm Bartosz Budnik</h1>
+<h3 align="center">I'm just doing a little of everything. Though C++/Rust is amazing! Mainly focusing on game dev</h3>
 
-<h3> Basic informations </h2>
+<h3> Some info </h2>
 
-- 🔭 I’m currently working on **Game development**
+- Working on **Mita** repository
 
-- 🌱 I’m currently learning, I use: **C++, OpenGL, SDL2, QT, QML, Python, C#, GDScript, Linux**
+- Learning and using: **Rust, C++, QML, Python, C#, GDScript and I guess Ruby**
+  
+- Email me for anything at **Budzio.zsm1@gmail.com**
+  
+- For Hack Club reasons at **Bartosz@hackclub.com**
 
-- 👨‍💻 All of my projects are available at my github
-
-- 💬 Ask me about **collaboration, ideas**
-
-- 📫 How to reach me **Budzio.zsm1@gmail.com**
-
-<h3> Programming books that I read: </h3>
+<h3> I love reading so why not make a list, here are programming books I've read: </h3>
 
 - <b>C++ Primer Plus</b> by Stephen Prata
 
@@ -32,17 +30,10 @@
 - <b>QT6 QML</b> by The QT Company
 
 
-<h3> Books that I'm reading, working with: </h3>
-
-- <b>The Pragmatic Programmer</b> by David Thomas, Andrew Hunt
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/budzio5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="budzio5" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/bartosz budnik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bartosz budnik" height="30" width="40" /></a>
-<a href="https://fb.com/budziotudzio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="budziotudzio" height="30" width="40" /></a>
-<a href="https://instagram.com/budziotudzio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="budziotudzio" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/budziotudzio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="budziotudzio" height="30" width="40" /></a>
 <a href="https://discord.gg/382847039433736192" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="382847039433736192" height="30" width="40" /></a>
 </p>
