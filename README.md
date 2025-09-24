@@ -3,9 +3,9 @@
 
 <h3> Some info </h2>
 
-- Working on  repository
+- Working on some secret projects ; p
 
-- Learning and using: **Rust, C++, QML, Python, C#, GDScript**
+- Learning and using: **Rust, C++, Python, C#, GDScript**
   
 - Email me for anything at **Budzio.zsm1@gmail.com**
   
