@@ -19,7 +19,7 @@
 <a href="https://www.leetcode.com/budziotudzio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="budziotudzio" height="30" width="40" /></a>
 </p>
 
-![WakaTime stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=2472&api_domain=hackatime.hackclub.com&theme=buefy&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0)
+![WakaTime stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=2472&api_domain=hackatime.hackclub.com&theme=buefy&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=12)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=budziot&show_icons=true&locale=en&layout=compact" alt="budziot" /></p>
 
